@@ -88,7 +88,7 @@ export const Main = () => {
                             </td>
                             <td>
                                 <div className="date">
-                                    <p>{data < mouth ? }</p>
+                                    <p></p>
                                     <p>пон</p>
                                 </div>
                             </td>
